@@ -1,0 +1,915 @@
+2025-12-13 15:52:40,371 - __main__ - INFO - ============================================================
+2025-12-13 15:52:40,372 - __main__ - INFO - Starting Game Store Server
+2025-12-13 15:52:40,372 - __main__ - INFO - ============================================================
+2025-12-13 15:52:40,519 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 15:57:44,952 - __main__ - INFO - ============================================================
+2025-12-13 15:57:44,953 - __main__ - INFO - Starting Game Store Server
+2025-12-13 15:57:44,953 - __main__ - INFO - ============================================================
+2025-12-13 16:02:51,014 - __main__ - INFO - ============================================================
+2025-12-13 16:02:51,015 - __main__ - INFO - Starting Game Store Server
+2025-12-13 16:02:51,015 - __main__ - INFO - ============================================================
+2025-12-13 16:02:51,200 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:02:51,250 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:02:51,250 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 16:02:51,250 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 16:02:51,250 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 16:02:51,254 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 16:02:51,254 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 16:03:39,150 - developer_server - INFO - Developer connected: 127.0.0.1:39250
+2025-12-13 16:03:55,534 - developer_server - INFO - New developer registered: dev1
+2025-12-13 16:04:01,414 - developer_server - INFO - Developer dev1 authenticated
+2025-12-13 16:05:15,438 - developer_server - INFO - Upload started: Connect4 by dev1
+2025-12-13 16:05:15,461 - developer_server - INFO - Game Connect4 uploaded successfully by dev1
+2025-12-13 16:11:30,842 - __main__ - INFO - ============================================================
+2025-12-13 16:11:30,842 - __main__ - INFO - Starting Game Store Server
+2025-12-13 16:11:30,843 - __main__ - INFO - ============================================================
+2025-12-13 16:11:30,896 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:11:30,953 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:11:30,954 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 16:11:30,954 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 16:11:30,954 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 16:11:30,955 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 16:11:30,955 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 16:11:44,393 - developer_server - INFO - Developer connected: 127.0.0.1:59990
+2025-12-13 16:24:39,067 - developer_server - INFO - Developer dev1 authenticated
+2025-12-13 16:28:12,695 - __main__ - INFO - ============================================================
+2025-12-13 16:28:12,695 - __main__ - INFO - Starting Game Store Server
+2025-12-13 16:28:12,695 - __main__ - INFO - ============================================================
+2025-12-13 16:28:12,873 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:28:12,917 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:28:12,918 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 16:28:12,918 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 16:28:12,918 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 16:28:12,919 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 16:28:12,919 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 16:48:59,282 - __main__ - INFO - ============================================================
+2025-12-13 16:48:59,283 - __main__ - INFO - Starting Game Store Server
+2025-12-13 16:48:59,283 - __main__ - INFO - ============================================================
+2025-12-13 16:48:59,419 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:48:59,471 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 16:48:59,472 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 16:48:59,472 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 16:48:59,472 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 16:48:59,473 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 16:48:59,473 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 16:49:07,419 - developer_server - INFO - Developer connected: 127.0.0.1:52828
+2025-12-13 16:49:28,047 - developer_server - INFO - New developer registered: 1
+2025-12-13 16:49:30,628 - developer_server - INFO - Developer 1 authenticated
+2025-12-13 16:50:15,049 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-13 16:50:15,051 - developer_server - INFO - Creating temp file: temp/127.0.0.1:52828/Connect4.zip
+2025-12-13 16:50:15,051 - developer_server - INFO - Upload started: Connect4 by 1
+2025-12-13 16:50:15,068 - developer_server - INFO - Game Connect4 uploaded successfully by 1
+2025-12-13 17:02:34,853 - lobby_server - INFO - Client connected: 127.0.0.1:43266
+2025-12-13 17:02:53,386 - lobby_server - INFO - New player registered: 2
+2025-12-13 17:02:57,384 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('2', '2113662a0041ec3b0b878faa31bbb72821b99f1e9de0bb208f74aeef5f509571', 'player')
+2025-12-13 17:02:57,384 - database.db_manager - WARNING - User 2 already exists
+2025-12-13 17:02:57,960 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('2', '2113662a0041ec3b0b878faa31bbb72821b99f1e9de0bb208f74aeef5f509571', 'player')
+2025-12-13 17:02:57,961 - database.db_manager - WARNING - User 2 already exists
+2025-12-13 17:02:59,353 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:43266
+2025-12-13 17:09:37,108 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:09:37,113 - lobby_server - INFO - Client 127.0.0.1:43266 disconnected
+2025-12-13 17:09:37,113 - lobby_server - INFO - User 2 disconnected
+2025-12-13 17:11:06,898 - lobby_server - INFO - Client connected: 127.0.0.1:53650
+2025-12-13 17:11:11,761 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:53650
+2025-12-13 17:11:16,462 - lobby_server - INFO - User 2 downloaded Connect4 v1.0.0
+2025-12-13 17:26:32,716 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:26:32,718 - lobby_server - INFO - Client 127.0.0.1:53650 disconnected
+2025-12-13 17:26:32,718 - lobby_server - INFO - User 2 disconnected
+2025-12-13 17:29:11,500 - lobby_server - INFO - Client connected: 127.0.0.1:34222
+2025-12-13 17:29:14,175 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:34222
+2025-12-13 17:29:20,403 - lobby_server - INFO - User 2 downloaded Connect4 v1.0.0
+2025-12-13 17:29:46,634 - lobby_server - INFO - Room 1 created by 2 for game Connect4
+2025-12-13 17:30:01,525 - lobby_server - INFO - Client connected: 127.0.0.1:49520
+2025-12-13 17:30:05,607 - lobby_server - INFO - New player registered: 3
+2025-12-13 17:30:06,503 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:49520
+2025-12-13 17:30:15,386 - lobby_server - INFO - User 3 joined room 1
+2025-12-13 17:50:18,792 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:50:18,793 - lobby_server - INFO - Client 127.0.0.1:34222 disconnected
+2025-12-13 17:50:18,793 - lobby_server - INFO - User 2 disconnected
+2025-12-13 17:50:18,794 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:50:18,794 - lobby_server - INFO - Client 127.0.0.1:49520 disconnected
+2025-12-13 17:50:18,794 - lobby_server - INFO - User 3 disconnected
+2025-12-13 17:50:25,420 - lobby_server - INFO - Client connected: 127.0.0.1:49340
+2025-12-13 17:50:29,177 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:49340
+2025-12-13 17:50:36,801 - lobby_server - INFO - Room 2 created by 3 for game Connect4
+2025-12-13 17:51:01,660 - lobby_server - INFO - Room 3 created by 3 for game Connect4
+2025-12-13 17:51:16,926 - lobby_server - INFO - Client connected: 127.0.0.1:54390
+2025-12-13 17:51:21,509 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:54390
+2025-12-13 17:51:33,546 - lobby_server - INFO - User 2 joined room 3
+2025-12-13 17:52:32,645 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:52:32,646 - lobby_server - INFO - Client 127.0.0.1:54390 disconnected
+2025-12-13 17:52:32,646 - lobby_server - INFO - User 2 disconnected
+2025-12-13 17:52:34,204 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 17:52:34,204 - lobby_server - INFO - Client 127.0.0.1:49340 disconnected
+2025-12-13 17:52:34,204 - lobby_server - INFO - User 3 disconnected
+2025-12-13 18:13:08,933 - lobby_server - INFO - Client connected: 127.0.0.1:55448
+2025-12-13 18:13:12,970 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:55448
+2025-12-13 18:13:24,454 - lobby_server - INFO - Client connected: 127.0.0.1:55928
+2025-12-13 18:13:27,278 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:55928
+2025-12-13 18:13:44,897 - lobby_server - INFO - Room 4 created by 3 for game Connect4
+2025-12-13 18:13:52,192 - lobby_server - INFO - User 2 joined room 4
+2025-12-13 18:15:16,728 - lobby_server - INFO - User 2 joined room 2
+2025-12-13 18:16:31,548 - lobby_server - INFO - Room 5 created by 3 for game Connect4
+2025-12-13 18:59:09,301 - lobby_server - INFO - User 2 disconnected
+2025-12-13 18:59:09,317 - lobby_server - INFO - User 3 disconnected
+2025-12-13 18:59:18,011 - __main__ - INFO - ============================================================
+2025-12-13 18:59:18,011 - __main__ - INFO - Starting Game Store Server
+2025-12-13 18:59:18,012 - __main__ - INFO - ============================================================
+2025-12-13 18:59:18,070 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 18:59:18,123 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 18:59:18,123 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 18:59:18,123 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 18:59:18,124 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 18:59:18,125 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 18:59:18,125 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 18:59:43,664 - lobby_server - INFO - Client connected: 127.0.0.1:44678
+2025-12-13 18:59:49,686 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:44678
+2025-12-13 18:59:53,993 - lobby_server - INFO - Client connected: 127.0.0.1:42444
+2025-12-13 18:59:58,287 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:42444
+2025-12-13 19:00:14,470 - lobby_server - INFO - Room 6 created by 3 for game Connect4
+2025-12-13 19:00:37,810 - lobby_server - INFO - User 2 joined room 6
+2025-12-13 19:02:23,388 - game_server_manager - INFO - Spawning game server for room 6 on port 9000
+2025-12-13 19:02:23,408 - game_server_manager - WARNING - Game server 6 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/1/1.0.0/games/1/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-13 19:02:23,409 - game_server_manager - INFO - Game server for room 6 exited with code 2
+2025-12-13 19:02:23,892 - game_server_manager - INFO - Game server started for room 6 on port 9000
+2025-12-13 19:02:23,910 - lobby_server - INFO - Game started for room 6 on port 9000
+2025-12-13 19:02:44,416 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 19:02:44,416 - lobby_server - INFO - Client 127.0.0.1:44678 disconnected
+2025-12-13 19:02:44,416 - lobby_server - INFO - User 2 disconnected
+2025-12-13 20:16:12,318 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 20:16:12,325 - lobby_server - INFO - Client 127.0.0.1:42444 disconnected
+2025-12-13 20:16:12,326 - lobby_server - INFO - User 3 disconnected
+2025-12-13 21:03:32,742 - lobby_server - INFO - Client connected: 127.0.0.1:53570
+2025-12-13 21:03:36,209 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:53570
+2025-12-13 21:03:39,954 - lobby_server - INFO - User 2 downloaded Connect4 v1.0.0
+2025-12-13 21:03:50,578 - lobby_server - INFO - Client connected: 127.0.0.1:59714
+2025-12-13 21:03:55,214 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:59714
+2025-12-13 21:04:09,574 - lobby_server - INFO - Room 7 created by 3 for game Connect4
+2025-12-13 21:04:19,379 - lobby_server - INFO - User 2 joined room 7
+2025-12-13 21:04:49,754 - lobby_server - INFO - Client connected: 127.0.0.1:34578
+2025-12-13 21:04:55,191 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:34578
+2025-12-13 21:05:12,988 - game_server_manager - INFO - Spawning game server for room 7 on port 9001
+2025-12-13 21:05:13,022 - game_server_manager - WARNING - Game server 7 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/1/1.0.0/games/1/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-13 21:05:13,022 - game_server_manager - INFO - Game server for room 7 exited with code 2
+2025-12-13 21:05:13,506 - game_server_manager - INFO - Game server started for room 7 on port 9001
+2025-12-13 21:05:13,514 - lobby_server - INFO - Game started for room 7 on port 9001
+2025-12-13 21:05:13,517 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-13 21:05:13,519 - lobby_server - ERROR - Error handling client 127.0.0.1:53570: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-13 21:05:13,531 - lobby_server - INFO - User 2 disconnected
+2025-12-13 21:05:13,533 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-13 21:13:47,751 - lobby_server - INFO - Host 3 left room 7 - room closed
+2025-12-13 21:13:59,160 - lobby_server - INFO - Room 8 created by 3 for game Connect4
+2025-12-13 21:14:28,520 - lobby_server - INFO - Host 3 left room 8 - room closed
+2025-12-13 21:14:31,258 - lobby_server - INFO - Client connected: 127.0.0.1:55448
+2025-12-13 21:14:33,516 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-13 21:14:33,516 - lobby_server - ERROR - Error handling client 127.0.0.1:59714: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-13 21:14:33,519 - lobby_server - INFO - User 3 disconnected
+2025-12-13 21:14:33,519 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-19' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-13 21:14:34,038 - lobby_server - INFO - Client connected: 127.0.0.1:55454
+2025-12-13 21:14:34,039 - lobby_server - INFO - Client connected: 127.0.0.1:55468
+2025-12-13 21:14:34,040 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:34,040 - lobby_server - INFO - Client 127.0.0.1:55454 disconnected
+2025-12-13 21:14:34,044 - lobby_server - INFO - Client connected: 127.0.0.1:55472
+2025-12-13 21:14:34,044 - lobby_server - INFO - Client connected: 127.0.0.1:55484
+2025-12-13 21:14:34,045 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:34,045 - lobby_server - INFO - Client 127.0.0.1:55472 disconnected
+2025-12-13 21:14:34,058 - lobby_server - INFO - Client connected: 127.0.0.1:55488
+2025-12-13 21:14:34,134 - lobby_server - INFO - Client connected: 127.0.0.1:55504
+2025-12-13 21:14:37,042 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:37,042 - lobby_server - INFO - Client 127.0.0.1:55504 disconnected
+2025-12-13 21:14:37,043 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:37,043 - lobby_server - INFO - Client 127.0.0.1:55484 disconnected
+2025-12-13 21:14:37,043 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:37,044 - lobby_server - INFO - Client 127.0.0.1:55468 disconnected
+2025-12-13 21:14:37,044 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:37,044 - lobby_server - INFO - Client 127.0.0.1:55488 disconnected
+2025-12-13 21:14:41,297 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:41,298 - lobby_server - INFO - Client 127.0.0.1:34578 disconnected
+2025-12-13 21:14:41,298 - lobby_server - INFO - User 2 disconnected
+2025-12-13 21:14:41,303 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:14:41,303 - lobby_server - INFO - Client 127.0.0.1:55448 disconnected
+2025-12-13 21:14:44,925 - lobby_server - INFO - Client connected: 127.0.0.1:58150
+2025-12-13 21:14:51,412 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:58150
+2025-12-13 21:14:58,391 - lobby_server - INFO - Room 9 created by 2 for game Connect4
+2025-12-13 21:15:08,669 - lobby_server - INFO - Client connected: 127.0.0.1:60490
+2025-12-13 21:15:11,847 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:60490
+2025-12-13 21:15:16,760 - lobby_server - INFO - Room 10 created by 3 for game Connect4
+2025-12-13 21:15:24,359 - lobby_server - INFO - Host 2 left room 9 - room closed
+2025-12-13 21:15:26,803 - lobby_server - INFO - User 2 joined room 10
+2025-12-13 21:17:47,551 - game_server_manager - INFO - Spawning game server for room 10 on port 9002
+2025-12-13 21:17:47,620 - game_server_manager - WARNING - Game server 10 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/1/1.0.0/games/1/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-13 21:17:47,621 - game_server_manager - INFO - Game server for room 10 exited with code 2
+2025-12-13 21:17:48,070 - game_server_manager - INFO - Game server started for room 10 on port 9002
+2025-12-13 21:17:48,080 - lobby_server - INFO - Game started for room 10 on port 9002
+2025-12-13 21:28:25,878 - lobby_server - INFO - User 3 disconnected
+2025-12-13 21:28:25,886 - lobby_server - INFO - User 2 disconnected
+2025-12-13 21:29:21,297 - __main__ - INFO - ============================================================
+2025-12-13 21:29:21,298 - __main__ - INFO - Starting Game Store Server
+2025-12-13 21:29:21,298 - __main__ - INFO - ============================================================
+2025-12-13 21:29:21,426 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 21:29:21,468 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 21:29:21,469 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 21:29:21,469 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 21:29:21,469 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 21:29:21,471 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 21:29:21,472 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 21:29:48,498 - developer_server - INFO - Developer connected: 127.0.0.1:55604
+2025-12-13 21:30:00,101 - developer_server - INFO - New developer registered: 1
+2025-12-13 21:30:02,182 - developer_server - INFO - Developer 1 authenticated
+2025-12-13 21:31:17,720 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-13 21:31:17,722 - developer_server - INFO - Creating temp file: temp/127.0.0.1:55604/Connect4.zip
+2025-12-13 21:31:17,723 - developer_server - INFO - Upload started: Connect4 by 1
+2025-12-13 21:31:17,744 - developer_server - INFO - Game Connect4 uploaded successfully by 1
+2025-12-13 21:31:36,765 - lobby_server - INFO - Client connected: 127.0.0.1:60574
+2025-12-13 21:31:44,983 - lobby_server - INFO - New player registered: 2
+2025-12-13 21:31:45,468 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:60574
+2025-12-13 21:31:52,246 - lobby_server - INFO - Client connected: 127.0.0.1:42772
+2025-12-13 21:31:54,771 - lobby_server - INFO - New player registered: 3
+2025-12-13 21:31:55,262 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:42772
+2025-12-13 21:44:51,448 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:44:51,462 - lobby_server - INFO - Client 127.0.0.1:42772 disconnected
+2025-12-13 21:44:51,464 - lobby_server - INFO - User 3 disconnected
+2025-12-13 21:45:04,843 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:45:04,844 - lobby_server - INFO - Client 127.0.0.1:60574 disconnected
+2025-12-13 21:45:04,844 - lobby_server - INFO - User 2 disconnected
+2025-12-13 21:46:28,102 - lobby_server - INFO - Client connected: 127.0.0.1:33938
+2025-12-13 21:46:30,820 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:33938
+2025-12-13 21:47:54,055 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 21:47:54,056 - lobby_server - INFO - Client 127.0.0.1:33938 disconnected
+2025-12-13 21:47:54,056 - lobby_server - INFO - User 2 disconnected
+2025-12-13 22:05:08,081 - __main__ - INFO - ============================================================
+2025-12-13 22:05:08,082 - __main__ - INFO - Starting Game Store Server
+2025-12-13 22:05:08,082 - __main__ - INFO - ============================================================
+2025-12-13 22:05:08,154 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 22:05:08,230 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 22:05:08,230 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 22:05:08,231 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 22:05:08,231 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 22:05:08,233 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 22:05:08,234 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 22:05:13,773 - lobby_server - INFO - Client connected: 127.0.0.1:39548
+2025-12-13 22:05:16,948 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('2', '2113662a0041ec3b0b878faa31bbb72821b99f1e9de0bb208f74aeef5f509571', 'player')
+2025-12-13 22:05:16,948 - database.db_manager - WARNING - User 2 already exists
+2025-12-13 22:05:18,082 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:39548
+2025-12-13 22:05:38,810 - lobby_server - INFO - Client connected: 127.0.0.1:39112
+2025-12-13 22:06:51,912 - developer_server - INFO - Developer connected: 127.0.0.1:59234
+2025-12-13 22:07:03,719 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 22:07:03,719 - developer_server - INFO - Developer 127.0.0.1:59234 disconnected
+2025-12-13 22:10:15,077 - lobby_server - INFO - User 2 disconnected
+2025-12-13 22:10:45,728 - __main__ - INFO - ============================================================
+2025-12-13 22:10:45,729 - __main__ - INFO - Starting Game Store Server
+2025-12-13 22:10:45,729 - __main__ - INFO - ============================================================
+2025-12-13 22:10:45,902 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 22:10:45,966 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-13 22:10:45,966 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-13 22:10:45,966 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-13 22:10:45,966 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-13 22:10:45,969 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-13 22:10:45,969 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-13 22:10:57,888 - lobby_server - INFO - Client connected: 127.0.0.1:54810
+2025-12-13 22:11:03,485 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 22:11:03,485 - lobby_server - INFO - Client 127.0.0.1:54810 disconnected
+2025-12-13 22:11:11,453 - developer_server - INFO - Developer connected: 127.0.0.1:43180
+2025-12-13 22:11:28,991 - developer_server - INFO - New developer registered: 1
+2025-12-13 22:11:38,936 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('1', '6cd0ef52755d089d18f5fb0e31a701ba1169cda40908ceb557755a8c642fad30', 'developer')
+2025-12-13 22:11:38,937 - database.db_manager - WARNING - User 1 already exists
+2025-12-13 22:11:42,391 - developer_server - INFO - Developer 1 authenticated
+2025-12-13 22:12:26,139 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-13 22:12:26,142 - developer_server - INFO - Creating temp file: temp/127.0.0.1:43180/Connect4.zip
+2025-12-13 22:12:26,142 - developer_server - INFO - Upload started: Connect4 by 1
+2025-12-13 22:12:26,164 - developer_server - INFO - Game Connect4 uploaded successfully by 1
+2025-12-13 22:12:42,206 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-13 22:12:42,207 - developer_server - INFO - Developer 127.0.0.1:43180 disconnected
+2025-12-13 22:12:50,256 - lobby_server - INFO - Client connected: 127.0.0.1:52388
+2025-12-13 22:12:55,380 - lobby_server - INFO - New player registered: 2
+2025-12-13 22:12:55,781 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:52388
+2025-12-13 22:13:03,558 - lobby_server - INFO - Client connected: 127.0.0.1:48098
+2025-12-13 22:13:09,819 - lobby_server - INFO - New player registered: 3
+2025-12-13 22:13:10,319 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:48098
+2025-12-13 22:13:18,072 - lobby_server - INFO - User 2 downloaded Connect4 v1.0.0
+2025-12-13 22:13:36,390 - lobby_server - INFO - Room 1 created by 2 for game Connect4
+2025-12-13 22:13:43,207 - lobby_server - INFO - User 3 joined room 1
+2025-12-13 22:13:51,945 - game_server_manager - INFO - Spawning game server for room 1 on port 9000
+2025-12-13 22:13:51,973 - game_server_manager - WARNING - Game server 1 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/1/1.0.0/games/1/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-13 22:13:51,974 - game_server_manager - INFO - Game server for room 1 exited with code 2
+2025-12-13 22:13:52,456 - game_server_manager - INFO - Game server started for room 1 on port 9000
+2025-12-13 22:13:52,462 - lobby_server - INFO - Game started for room 1 on port 9000
+2025-12-13 22:15:12,834 - lobby_server - INFO - Host 2 left room 1 - room closed
+2025-12-13 22:15:20,217 - lobby_server - INFO - Room 2 created by 3 for game Connect4
+2025-12-13 22:15:22,783 - lobby_server - INFO - User 2 joined room 2
+2025-12-13 22:25:22,521 - lobby_server - INFO - Host 3 left room 2 - room closed
+2025-12-13 22:44:43,762 - lobby_server - INFO - User 3 disconnected
+2025-12-13 22:44:43,773 - lobby_server - INFO - User 2 disconnected
+2025-12-18 00:53:00,092 - __main__ - INFO - ============================================================
+2025-12-18 00:53:00,094 - __main__ - INFO - Starting Game Store Server
+2025-12-18 00:53:00,094 - __main__ - INFO - ============================================================
+2025-12-18 00:53:00,155 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 00:53:00,208 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 00:53:00,208 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 00:53:00,209 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 00:53:00,209 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 00:53:00,211 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 00:53:00,212 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 00:53:23,426 - developer_server - INFO - Developer connected: 127.0.0.1:37836
+2025-12-18 00:53:33,012 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('1', '6cd0ef52755d089d18f5fb0e31a701ba1169cda40908ceb557755a8c642fad30', 'developer')
+2025-12-18 00:53:33,013 - database.db_manager - WARNING - User 1 already exists
+2025-12-18 00:53:38,549 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 00:54:26,063 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 00:54:26,064 - developer_server - WARNING - Game 'Connect4' already exists
+2025-12-18 00:54:55,903 - developer_server - INFO - Game Connect4 removed by 1
+2025-12-18 00:55:53,817 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 00:55:53,817 - developer_server - WARNING - Game 'Connect4' already exists
+2025-12-18 00:56:17,144 - developer_server - INFO - Game Connect4 removed by 1
+2025-12-18 00:56:34,808 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 00:56:34,809 - developer_server - WARNING - Game 'Connect4' already exists
+2025-12-18 01:15:02,448 - developer_server - INFO - Upload start request from 1: name=connect4, size=4504
+2025-12-18 01:15:02,475 - developer_server - INFO - Creating temp file: temp/127.0.0.1:37836/connect4.zip
+2025-12-18 01:15:02,476 - developer_server - INFO - Upload started: connect4 by 1
+2025-12-18 01:15:02,547 - developer_server - INFO - Game connect4 uploaded successfully by 1
+2025-12-18 01:15:33,498 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 01:15:33,498 - developer_server - INFO - Developer 127.0.0.1:37836 disconnected
+2025-12-18 01:17:57,604 - __main__ - INFO - ============================================================
+2025-12-18 01:17:57,605 - __main__ - INFO - Starting Game Store Server
+2025-12-18 01:17:57,605 - __main__ - INFO - ============================================================
+2025-12-18 01:17:57,656 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:17:57,700 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:17:57,700 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 01:17:57,700 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 01:17:57,700 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 01:17:57,702 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 01:17:57,702 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 01:18:00,056 - developer_server - INFO - Developer connected: 127.0.0.1:56024
+2025-12-18 01:18:05,293 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 01:24:56,215 - __main__ - INFO - ============================================================
+2025-12-18 01:24:56,216 - __main__ - INFO - Starting Game Store Server
+2025-12-18 01:24:56,217 - __main__ - INFO - ============================================================
+2025-12-18 01:24:56,358 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:24:56,406 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:24:56,406 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 01:24:56,407 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 01:24:56,407 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 01:24:56,409 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 01:24:56,409 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 01:24:58,083 - developer_server - INFO - Developer connected: 127.0.0.1:37972
+2025-12-18 01:25:07,153 - developer_server - INFO - New developer registered: 1
+2025-12-18 01:25:09,026 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 01:25:44,858 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 01:25:44,861 - developer_server - INFO - Creating temp file: temp/127.0.0.1:37972/Connect4.zip
+2025-12-18 01:25:44,862 - developer_server - INFO - Upload started: Connect4 by 1
+2025-12-18 01:25:44,882 - developer_server - INFO - Game Connect4 uploaded successfully by 1
+2025-12-18 01:27:20,539 - lobby_server - INFO - Client connected: 127.0.0.1:41294
+2025-12-18 01:27:29,705 - lobby_server - INFO - New player registered: 2
+2025-12-18 01:27:30,352 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:41294
+2025-12-18 01:27:34,835 - lobby_server - INFO - User 2 downloaded Connect4 v1.0.0
+2025-12-18 01:28:01,243 - lobby_server - INFO - Client connected: 127.0.0.1:36608
+2025-12-18 01:28:04,288 - lobby_server - INFO - New player registered: 3
+2025-12-18 01:28:05,989 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:36608
+2025-12-18 01:28:24,367 - lobby_server - INFO - Room 1 created by 2 for game Connect4
+2025-12-18 01:28:28,602 - lobby_server - INFO - User 3 joined room 1
+2025-12-18 01:38:26,725 - lobby_server - INFO - Host 2 left room 1 - room closed
+2025-12-18 01:49:27,372 - __main__ - INFO - ============================================================
+2025-12-18 01:49:27,376 - __main__ - INFO - Starting Game Store Server
+2025-12-18 01:49:27,376 - __main__ - INFO - ============================================================
+2025-12-18 01:49:27,453 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:49:27,500 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 01:49:27,500 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 01:49:27,501 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 01:49:27,501 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 01:49:27,504 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 01:49:27,504 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 01:49:36,441 - lobby_server - INFO - Client connected: 127.0.0.1:34870
+2025-12-18 01:49:39,736 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:34870
+2025-12-18 01:49:45,094 - lobby_server - INFO - Room 2 created by 2 for game Connect4
+2025-12-18 01:49:51,644 - lobby_server - INFO - Client connected: 127.0.0.1:60000
+2025-12-18 01:49:54,471 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:60000
+2025-12-18 01:49:59,075 - lobby_server - INFO - User 3 joined room 2
+2025-12-18 01:59:47,378 - lobby_server - INFO - Host 2 left room 2 - room closed
+2025-12-18 02:04:47,553 - __main__ - INFO - ============================================================
+2025-12-18 02:04:47,556 - __main__ - INFO - Starting Game Store Server
+2025-12-18 02:04:47,556 - __main__ - INFO - ============================================================
+2025-12-18 02:04:47,614 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 02:04:47,661 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 02:04:47,662 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 02:04:47,662 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 02:04:47,662 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 02:04:47,664 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 02:04:47,664 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 02:05:11,217 - lobby_server - INFO - Client connected: 127.0.0.1:53802
+2025-12-18 02:05:37,498 - lobby_server - INFO - Client connected: 127.0.0.1:33178
+2025-12-18 02:05:43,391 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:33178
+2025-12-18 02:05:57,580 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:53802
+2025-12-18 02:06:05,918 - lobby_server - INFO - Room 3 created by 2 for game Connect4
+2025-12-18 02:06:10,530 - lobby_server - INFO - User 3 joined room 3
+2025-12-18 02:07:08,157 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 02:07:08,159 - lobby_server - INFO - Client 127.0.0.1:33178 disconnected
+2025-12-18 02:07:08,159 - lobby_server - INFO - User 3 disconnected
+2025-12-18 02:11:31,454 - lobby_server - INFO - Client connected: 127.0.0.1:38854
+2025-12-18 02:12:04,521 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:38854
+2025-12-18 02:12:17,783 - lobby_server - INFO - Host 2 left room 3 - room closed
+2025-12-18 02:12:22,784 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-18 02:12:22,785 - lobby_server - ERROR - Error handling client 127.0.0.1:53802: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 02:12:22,801 - lobby_server - INFO - User 2 disconnected
+2025-12-18 02:12:22,804 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 02:12:22,996 - lobby_server - INFO - Client connected: 127.0.0.1:33458
+2025-12-18 02:12:23,075 - lobby_server - INFO - Client connected: 127.0.0.1:33462
+2025-12-18 02:12:26,131 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:33462
+2025-12-18 02:12:33,351 - lobby_server - INFO - Room 4 created by 2 for game Connect4
+2025-12-18 02:12:38,490 - lobby_server - INFO - User 3 joined room 4
+2025-12-18 02:13:26,551 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 02:13:26,552 - lobby_server - INFO - Client 127.0.0.1:38854 disconnected
+2025-12-18 02:13:26,552 - lobby_server - INFO - User 3 disconnected
+2025-12-18 02:22:35,679 - lobby_server - INFO - Host 2 left room 4 - room closed
+2025-12-18 02:52:11,440 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 02:52:11,450 - lobby_server - INFO - Client 127.0.0.1:33462 disconnected
+2025-12-18 02:52:11,451 - lobby_server - INFO - User 2 disconnected
+2025-12-18 02:52:11,455 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 02:52:11,456 - lobby_server - INFO - Client 127.0.0.1:33458 disconnected
+2025-12-18 02:52:18,419 - __main__ - INFO - ============================================================
+2025-12-18 02:52:18,420 - __main__ - INFO - Starting Game Store Server
+2025-12-18 02:52:18,420 - __main__ - INFO - ============================================================
+2025-12-18 02:52:18,474 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 02:52:18,515 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 02:52:18,515 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 02:52:18,515 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 02:52:18,515 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 02:52:18,516 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 02:52:18,517 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 02:52:24,076 - lobby_server - INFO - Client connected: 127.0.0.1:45238
+2025-12-18 02:52:27,203 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:45238
+2025-12-18 02:52:33,504 - lobby_server - INFO - Room 5 created by 2 for game Connect4
+2025-12-18 02:52:48,554 - lobby_server - INFO - Client connected: 127.0.0.1:51116
+2025-12-18 02:52:52,538 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:51116
+2025-12-18 02:52:55,645 - lobby_server - INFO - User 3 joined room 5
+2025-12-18 02:53:15,604 - lobby_server - INFO - Host 2 left room 5 - room closed
+2025-12-18 02:53:59,557 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-18 02:53:59,557 - lobby_server - ERROR - Error handling client 127.0.0.1:51116: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 02:53:59,562 - lobby_server - INFO - User 3 disconnected
+2025-12-18 02:53:59,562 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 02:54:26,340 - lobby_server - INFO - Client connected: 127.0.0.1:57904
+2025-12-18 02:54:29,281 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:57904
+2025-12-18 02:54:37,321 - lobby_server - INFO - Room 6 created by 3 for game Connect4
+2025-12-18 02:55:04,492 - lobby_server - INFO - User 2 joined room 6
+2025-12-18 02:55:06,479 - game_server_manager - INFO - Spawning game server for room 6 on port 9000
+2025-12-18 02:55:06,535 - game_server_manager - WARNING - Game server 6 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/1/1.0.0/games/1/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-18 02:55:06,536 - game_server_manager - INFO - Game server for room 6 exited with code 2
+2025-12-18 02:55:07,004 - game_server_manager - INFO - Game server started for room 6 on port 9000
+2025-12-18 02:55:07,012 - lobby_server - INFO - Game started for room 6 on port 9000
+2025-12-18 02:57:58,423 - lobby_server - INFO - Host 3 left room 6 - room closed
+2025-12-18 02:59:14,915 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 02:59:14,915 - lobby_server - INFO - Client 127.0.0.1:57904 disconnected
+2025-12-18 02:59:14,915 - lobby_server - INFO - User 3 disconnected
+2025-12-18 02:59:46,090 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-18 02:59:46,095 - lobby_server - ERROR - Error handling client 127.0.0.1:45238: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 02:59:46,105 - lobby_server - INFO - User 2 disconnected
+2025-12-18 02:59:46,110 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 03:09:00,157 - __main__ - INFO - ============================================================
+2025-12-18 03:09:00,158 - __main__ - INFO - Starting Game Store Server
+2025-12-18 03:09:00,158 - __main__ - INFO - ============================================================
+2025-12-18 03:09:00,223 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 03:09:00,264 - database.db_manager - INFO - Database initialized at database/game_store.db
+2025-12-18 03:09:00,264 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 03:09:00,265 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 03:09:00,265 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 03:09:00,267 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 03:09:00,267 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 03:09:07,696 - developer_server - INFO - Developer connected: 127.0.0.1:47804
+2025-12-18 03:09:15,857 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 03:09:44,697 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 03:09:44,698 - developer_server - WARNING - Game 'Connect4' already exists
+2025-12-18 03:10:31,754 - developer_server - INFO - Upload start request from 1: name=C4, size=4504
+2025-12-18 03:10:31,755 - developer_server - INFO - Creating temp file: temp/127.0.0.1:47804/C4.zip
+2025-12-18 03:10:31,755 - developer_server - INFO - Upload started: C4 by 1
+2025-12-18 03:10:31,768 - developer_server - INFO - Game files at root level
+2025-12-18 03:10:31,778 - developer_server - INFO - Game C4 uploaded successfully by 1
+2025-12-18 03:10:53,469 - lobby_server - INFO - Client connected: 127.0.0.1:50400
+2025-12-18 03:10:57,030 - lobby_server - INFO - Client connected: 127.0.0.1:50414
+2025-12-18 03:11:00,506 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:50414
+2025-12-18 03:11:05,289 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:50400
+2025-12-18 03:11:10,619 - lobby_server - INFO - User 3 downloaded C4 v1.0.0
+2025-12-18 03:11:31,485 - lobby_server - INFO - Room 7 created by 2 for game C4
+2025-12-18 03:11:34,737 - lobby_server - INFO - User 3 joined room 7
+2025-12-18 03:11:45,396 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-18 03:11:45,396 - lobby_server - ERROR - Error handling client 127.0.0.1:50414: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 03:11:45,400 - lobby_server - INFO - User 3 disconnected
+2025-12-18 03:11:45,400 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 03:12:49,721 - lobby_server - INFO - Client connected: 127.0.0.1:36444
+2025-12-18 03:12:52,590 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:36444
+2025-12-18 03:13:02,963 - lobby_server - INFO - Host 2 left room 7 - room closed
+2025-12-18 03:13:12,588 - lobby_server - INFO - Room 8 created by 2 for game C4
+2025-12-18 03:13:17,153 - lobby_server - INFO - User 3 joined room 8
+2025-12-18 03:14:28,524 - game_server_manager - INFO - Spawning game server for room 8 on port 9000
+2025-12-18 03:14:28,556 - game_server_manager - WARNING - Game server 8 stderr: /usr/bin/python3: can't open file '/home/jerrykao/hw3_game_store/hw3_game_store/server/games/2/1.0.0/games/2/1.0.0/game_server.py': [Errno 2] No such file or directory
+
+2025-12-18 03:14:28,557 - game_server_manager - INFO - Game server for room 8 exited with code 2
+2025-12-18 03:14:29,042 - game_server_manager - INFO - Game server started for room 8 on port 9000
+2025-12-18 03:14:29,047 - lobby_server - INFO - Game started for room 8 on port 9000
+2025-12-18 03:14:43,684 - lobby_server - INFO - Host 2 left room 8 - room closed
+2025-12-18 03:14:46,514 - protocol - ERROR - Read error: [Errno 104] Connection reset by peer
+2025-12-18 03:14:46,514 - lobby_server - ERROR - Error handling client 127.0.0.1:36444: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 86, in handle_client
+    message = await Message.read_from_stream(reader)
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/protocol.py", line 126, in read_from_stream
+    header = await reader.readexactly(4)
+  File "/usr/lib/python3.10/asyncio/streams.py", line 708, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/usr/lib/python3.10/asyncio/streams.py", line 501, in _wait_for_data
+    await self._waiter
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 03:14:46,518 - lobby_server - INFO - User 3 disconnected
+2025-12-18 03:14:46,519 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<LobbyServer.handle_client() done, defined at /home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py:69> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/lobby_server.py", line 103, in handle_client
+    await writer.wait_closed()
+  File "/usr/lib/python3.10/asyncio/streams.py", line 343, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 862, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+2025-12-18 03:14:49,809 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 03:14:49,810 - lobby_server - INFO - Client 127.0.0.1:50400 disconnected
+2025-12-18 03:14:49,810 - lobby_server - INFO - User 2 disconnected
+2025-12-18 03:44:25,069 - lobby_server - INFO - Client connected: 127.0.0.1:37548
+2025-12-18 03:44:28,452 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:37548
+2025-12-18 03:44:35,664 - lobby_server - INFO - Room 9 created by 2 for game Connect4
+2025-12-18 03:44:42,718 - lobby_server - INFO - Client connected: 127.0.0.1:49132
+2025-12-18 03:44:47,253 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:49132
+2025-12-18 03:44:51,470 - lobby_server - INFO - User 3 joined room 9
+2025-12-18 03:44:55,243 - game_server_manager - ERROR - Game server not found: games/1/1.0.0/game_server.py
+2025-12-18 03:45:15,118 - game_server_manager - ERROR - Game server not found: games/1/1.0.0/game_server.py
+2025-12-18 03:54:37,950 - lobby_server - INFO - Host 2 left room 9 - room closed
+2025-12-18 03:54:38,755 - lobby_server - INFO - User 3 left room 9
+2025-12-18 03:56:06,316 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 03:56:06,316 - lobby_server - INFO - Client 127.0.0.1:37548 disconnected
+2025-12-18 03:56:06,316 - lobby_server - INFO - User 2 disconnected
+2025-12-18 03:56:36,548 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 03:56:36,548 - lobby_server - INFO - Client 127.0.0.1:49132 disconnected
+2025-12-18 03:56:36,548 - lobby_server - INFO - User 3 disconnected
+2025-12-18 03:56:43,686 - lobby_server - INFO - Client connected: 127.0.0.1:52014
+2025-12-18 03:56:47,594 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:52014
+2025-12-18 03:56:53,400 - lobby_server - INFO - Room 10 created by 2 for game Connect4
+2025-12-18 03:56:59,397 - lobby_server - INFO - Client connected: 127.0.0.1:55424
+2025-12-18 03:57:02,055 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:55424
+2025-12-18 03:57:04,602 - lobby_server - INFO - User 3 joined room 10
+2025-12-18 03:57:07,713 - game_server_manager - ERROR - Game server not found: games/1/1.0.0/game_server.py
+2025-12-18 03:57:43,532 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 03:57:43,532 - lobby_server - INFO - Client 127.0.0.1:55424 disconnected
+2025-12-18 03:57:43,533 - lobby_server - INFO - User 3 disconnected
+2025-12-18 03:58:18,870 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 03:58:18,870 - lobby_server - INFO - Client 127.0.0.1:52014 disconnected
+2025-12-18 03:58:18,870 - lobby_server - INFO - User 2 disconnected
+2025-12-18 05:18:07,828 - __main__ - INFO - ============================================================
+2025-12-18 05:18:07,830 - __main__ - INFO - Starting Game Store Server
+2025-12-18 05:18:07,831 - __main__ - INFO - ============================================================
+2025-12-18 05:18:07,884 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:18:07,925 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:18:07,925 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 05:18:07,925 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 05:18:07,925 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 05:18:07,926 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 05:18:07,927 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 05:18:15,030 - lobby_server - INFO - Client connected: 127.0.0.1:42594
+2025-12-18 05:18:19,469 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:42594
+2025-12-18 05:18:27,465 - lobby_server - INFO - Client connected: 127.0.0.1:36700
+2025-12-18 05:18:32,965 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:36700
+2025-12-18 05:18:42,453 - lobby_server - INFO - Room 11 created by 2 for game C4
+2025-12-18 05:18:45,598 - lobby_server - INFO - User 3 joined room 11
+2025-12-18 05:18:50,481 - game_server_manager - INFO - Spawning game server for room 11 on port 9000
+2025-12-18 05:18:50,985 - game_server_manager - INFO - Game server started for room 11 on port 9000
+2025-12-18 05:18:50,989 - lobby_server - INFO - Game started for room 11 on port 9000
+2025-12-18 05:19:56,503 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 05:19:56,504 - lobby_server - INFO - Client 127.0.0.1:42594 disconnected
+2025-12-18 05:19:56,504 - lobby_server - INFO - User 2 disconnected
+2025-12-18 05:30:17,537 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 05:30:17,548 - lobby_server - INFO - Client 127.0.0.1:36700 disconnected
+2025-12-18 05:30:17,549 - lobby_server - INFO - User 3 disconnected
+2025-12-18 05:32:54,279 - __main__ - INFO - ============================================================
+2025-12-18 05:32:54,280 - __main__ - INFO - Starting Game Store Server
+2025-12-18 05:32:54,280 - __main__ - INFO - ============================================================
+2025-12-18 05:32:54,337 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:32:54,386 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:32:54,387 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 05:32:54,387 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 05:32:54,387 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 05:32:54,389 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 05:32:54,389 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 05:33:03,225 - developer_server - INFO - Developer connected: 127.0.0.1:37290
+2025-12-18 05:33:06,639 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 05:33:34,191 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 05:33:34,192 - developer_server - WARNING - Game 'Connect4' already exists
+2025-12-18 05:35:31,677 - developer_server - INFO - Upload start request from 1: name=c4, size=4504
+2025-12-18 05:35:31,683 - developer_server - INFO - Creating temp file: /home/jerrykao/hw3_game_store/hw3_game_store/server/temp/127.0.0.1:37290/c4.zip
+2025-12-18 05:35:31,683 - developer_server - INFO - Upload started: c4 by 1
+2025-12-18 05:35:31,700 - developer_server - INFO - Game files at root level
+2025-12-18 05:35:31,705 - developer_server - INFO - Game c4 uploaded successfully by 1
+2025-12-18 05:44:21,353 - __main__ - INFO - ============================================================
+2025-12-18 05:44:21,354 - __main__ - INFO - Starting Game Store Server
+2025-12-18 05:44:21,354 - __main__ - INFO - ============================================================
+2025-12-18 05:44:21,483 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:44:21,527 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 05:44:21,527 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 05:44:21,528 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 05:44:21,528 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 05:44:21,530 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 05:44:21,531 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 05:44:29,112 - developer_server - INFO - Developer connected: 127.0.0.1:58806
+2025-12-18 05:44:37,978 - developer_server - INFO - New developer registered: 1
+2025-12-18 05:44:41,755 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 05:45:55,734 - developer_server - INFO - Upload start request from 1: name=Connect4, size=4504
+2025-12-18 05:45:55,738 - developer_server - INFO - Creating temp file: /home/jerrykao/hw3_game_store/hw3_game_store/server/temp/127.0.0.1:58806/Connect4.zip
+2025-12-18 05:45:55,741 - developer_server - INFO - Upload started: Connect4 by 1
+2025-12-18 05:45:55,757 - developer_server - INFO - Game files at root level
+2025-12-18 05:45:55,763 - developer_server - INFO - Game Connect4 uploaded successfully by 1
+2025-12-18 05:46:03,808 - lobby_server - INFO - Client connected: 127.0.0.1:36356
+2025-12-18 05:46:08,200 - lobby_server - INFO - Client connected: 127.0.0.1:47498
+2025-12-18 05:46:14,049 - lobby_server - INFO - New player registered: 3
+2025-12-18 05:46:14,455 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:47498
+2025-12-18 05:46:18,940 - lobby_server - INFO - New player registered: 2
+2025-12-18 05:46:19,332 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:36356
+2025-12-18 05:46:26,640 - lobby_server - INFO - User 3 downloaded Connect4 v1.0.0
+2025-12-18 05:46:34,495 - lobby_server - INFO - Room 1 created by 2 for game Connect4
+2025-12-18 05:46:37,745 - lobby_server - INFO - User 3 joined room 1
+2025-12-18 05:46:41,616 - game_server_manager - INFO - Spawning game server for room 1 on port 9000
+2025-12-18 05:46:42,132 - game_server_manager - INFO - Game server started for room 1 on port 9000
+2025-12-18 05:46:42,137 - lobby_server - INFO - Game started for room 1 on port 9000
+2025-12-18 05:49:53,722 - lobby_server - INFO - Host 2 left room 1 - room closed
+2025-12-18 05:49:57,869 - lobby_server - INFO - User 3 left room 1
+2025-12-18 05:50:51,333 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 05:50:51,334 - lobby_server - INFO - Client 127.0.0.1:47498 disconnected
+2025-12-18 05:50:51,334 - lobby_server - INFO - User 3 disconnected
+2025-12-18 05:50:55,201 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 05:50:55,202 - lobby_server - INFO - Client 127.0.0.1:36356 disconnected
+2025-12-18 05:50:55,202 - lobby_server - INFO - User 2 disconnected
+2025-12-18 06:04:26,086 - __main__ - INFO - ============================================================
+2025-12-18 06:04:26,088 - __main__ - INFO - Starting Game Store Server
+2025-12-18 06:04:26,088 - __main__ - INFO - ============================================================
+2025-12-18 06:04:26,152 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 06:04:26,194 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 06:04:26,194 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 06:04:26,194 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 06:04:26,195 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 06:04:26,197 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 06:04:26,198 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 06:04:50,111 - lobby_server - INFO - Client connected: 127.0.0.1:32802
+2025-12-18 06:04:52,580 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:32802
+2025-12-18 06:04:59,978 - lobby_server - INFO - Room 2 created by 2 for game Connect4
+2025-12-18 06:05:05,598 - lobby_server - INFO - Client connected: 127.0.0.1:56848
+2025-12-18 06:05:09,681 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:56848
+2025-12-18 06:05:13,234 - lobby_server - INFO - User 3 joined room 2
+2025-12-18 06:05:16,124 - game_server_manager - INFO - Spawning game server for room 2 on port 9000
+2025-12-18 06:05:16,629 - game_server_manager - INFO - Game server started for room 2 on port 9000
+2025-12-18 06:05:16,633 - lobby_server - INFO - Game started for room 2 on port 9000
+2025-12-18 06:05:57,887 - lobby_server - INFO - Host 2 left room 2 - room closed
+2025-12-18 06:05:59,240 - lobby_server - INFO - User 3 left room 2
+2025-12-18 06:06:04,018 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:06:04,018 - lobby_server - INFO - Client 127.0.0.1:32802 disconnected
+2025-12-18 06:06:04,018 - lobby_server - INFO - User 2 disconnected
+2025-12-18 06:13:40,623 - lobby_server - INFO - Client connected: 127.0.0.1:53140
+2025-12-18 06:13:53,594 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:53140
+2025-12-18 06:14:13,748 - lobby_server - INFO - Room 3 created by 2 for game Connect4
+2025-12-18 06:14:17,646 - lobby_server - INFO - User 3 joined room 3
+2025-12-18 06:14:19,636 - game_server_manager - INFO - Spawning game server for room 3 on port 9001
+2025-12-18 06:14:20,158 - game_server_manager - INFO - Game server started for room 3 on port 9001
+2025-12-18 06:14:20,163 - lobby_server - INFO - Game started for room 3 on port 9001
+2025-12-18 06:14:46,044 - lobby_server - INFO - Host 2 left room 3 - room closed
+2025-12-18 06:14:49,733 - lobby_server - INFO - User 3 left room 3
+2025-12-18 06:17:38,315 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:17:38,317 - lobby_server - INFO - Client 127.0.0.1:53140 disconnected
+2025-12-18 06:17:38,317 - lobby_server - INFO - User 2 disconnected
+2025-12-18 06:17:41,298 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:17:41,299 - lobby_server - INFO - Client 127.0.0.1:56848 disconnected
+2025-12-18 06:17:41,299 - lobby_server - INFO - User 3 disconnected
+2025-12-18 06:26:13,057 - developer_server - INFO - Developer connected: 127.0.0.1:50652
+2025-12-18 06:26:20,649 - database.db_manager - ERROR - Query error: UNIQUE constraint failed: users.username
+Query: INSERT INTO users (username, password_hash, user_type) VALUES (?, ?, ?)
+Params: ('2', '2113662a0041ec3b0b878faa31bbb72821b99f1e9de0bb208f74aeef5f509571', 'developer')
+2025-12-18 06:26:20,650 - database.db_manager - WARNING - User 2 already exists
+2025-12-18 06:26:25,825 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 06:28:20,599 - developer_server - INFO - Upload start request from 1: name=Rock Paper Scizzors, size=5772
+2025-12-18 06:28:20,621 - developer_server - INFO - Creating temp file: /home/jerrykao/hw3_game_store/hw3_game_store/server/temp/127.0.0.1:50652/Rock Paper Scizzors.zip
+2025-12-18 06:28:20,622 - developer_server - INFO - Upload started: Rock Paper Scizzors by 1
+2025-12-18 06:28:20,675 - developer_server - INFO - Game files at root level
+2025-12-18 06:28:20,682 - developer_server - INFO - Game Rock Paper Scizzors uploaded successfully by 1
+2025-12-18 06:28:30,619 - lobby_server - INFO - Client connected: 127.0.0.1:35676
+2025-12-18 06:28:34,526 - lobby_server - INFO - Client connected: 127.0.0.1:35686
+2025-12-18 06:28:40,326 - lobby_server - INFO - User 3 authenticated on 127.0.0.1:35686
+2025-12-18 06:28:43,152 - lobby_server - INFO - User 2 authenticated on 127.0.0.1:35676
+2025-12-18 06:28:53,099 - lobby_server - INFO - User 2 downloaded Rock Paper Scizzors v1.0.0
+2025-12-18 06:29:04,227 - lobby_server - INFO - Room 4 created by 3 for game Rock Paper Scizzors
+2025-12-18 06:29:40,788 - lobby_server - INFO - Client connected: 127.0.0.1:49814
+2025-12-18 06:29:44,007 - lobby_server - INFO - New player registered: 4
+2025-12-18 06:29:44,729 - lobby_server - INFO - User 4 authenticated on 127.0.0.1:49814
+2025-12-18 06:29:55,277 - lobby_server - INFO - User 4 joined room 4
+2025-12-18 06:30:00,202 - lobby_server - INFO - User 2 joined room 4
+2025-12-18 06:30:05,421 - game_server_manager - INFO - Spawning game server for room 4 on port 9002
+2025-12-18 06:30:05,937 - game_server_manager - INFO - Game server started for room 4 on port 9002
+2025-12-18 06:30:05,944 - lobby_server - INFO - Game started for room 4 on port 9002
+2025-12-18 06:43:35,549 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:43:35,557 - lobby_server - INFO - Client 127.0.0.1:35686 disconnected
+2025-12-18 06:43:35,558 - lobby_server - INFO - User 3 disconnected
+2025-12-18 06:43:36,850 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:43:36,850 - lobby_server - INFO - Client 127.0.0.1:49814 disconnected
+2025-12-18 06:43:36,850 - lobby_server - INFO - User 4 disconnected
+2025-12-18 06:43:45,471 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 06:43:45,472 - lobby_server - INFO - Client 127.0.0.1:35676 disconnected
+2025-12-18 06:43:45,473 - lobby_server - INFO - User 2 disconnected
+2025-12-18 07:02:59,061 - developer_server - INFO - Update started for game Rock Paper Scizzors to version 1.0.1
+2025-12-18 07:02:59,084 - developer_server - ERROR - Upload complete error: 'name'
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/developer_server.py", line 286, in handle_upload_complete
+    name=upload['name'],
+KeyError: 'name'
+2025-12-18 08:32:16,844 - __main__ - INFO - ============================================================
+2025-12-18 08:32:16,845 - __main__ - INFO - Starting Game Store Server
+2025-12-18 08:32:16,845 - __main__ - INFO - ============================================================
+2025-12-18 08:32:16,988 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 08:32:16,990 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 08:32:16,990 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 08:32:16,990 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 08:32:16,990 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 08:32:16,993 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 08:32:16,993 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 08:32:25,508 - developer_server - INFO - Developer connected: 127.0.0.1:39232
+2025-12-18 08:32:35,454 - database.db_manager - INFO - Developer created: 1
+2025-12-18 08:32:35,454 - developer_server - INFO - New developer registered: 1
+2025-12-18 08:32:40,357 - database.db_manager - INFO - Developer authenticated: 1
+2025-12-18 08:32:40,357 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 08:33:41,886 - developer_server - INFO - Upload start request from 1: name=rock paper scissors, size=7538
+2025-12-18 08:33:41,897 - developer_server - INFO - Creating temp file: /home/jerrykao/hw3_game_store/hw3_game_store/server/temp/127.0.0.1:39232/rock paper scissors.zip
+2025-12-18 08:33:41,898 - developer_server - INFO - Upload started: rock paper scissors by 1
+2025-12-18 08:33:41,947 - developer_server - WARNING - game_server.py not found, extracting all files
+2025-12-18 08:33:41,955 - developer_server - INFO - Game rock paper scissors uploaded successfully by 1
+2025-12-18 08:34:36,149 - developer_server - INFO - Update started for game rock paper scissors to version 1.0.1
+2025-12-18 08:34:36,152 - developer_server - ERROR - Upload complete error: 'name'
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/developer_server.py", line 286, in handle_upload_complete
+    name=upload['name'],
+KeyError: 'name'
+2025-12-18 08:39:39,212 - developer_server - INFO - Update started for game rock paper scissors to version 1.0.1
+2025-12-18 08:39:39,228 - developer_server - ERROR - Upload complete error: 'name'
+Traceback (most recent call last):
+  File "/home/jerrykao/hw3_game_store/hw3_game_store/server/developer_server.py", line 286, in handle_upload_complete
+    name=upload['name'],
+KeyError: 'name'
+2025-12-18 08:53:13,498 - __main__ - INFO - ============================================================
+2025-12-18 08:53:13,500 - __main__ - INFO - Starting Game Store Server
+2025-12-18 08:53:13,500 - __main__ - INFO - ============================================================
+2025-12-18 08:53:13,508 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 08:53:13,510 - database.db_manager - INFO - Database initialized at /home/jerrykao/hw3_game_store/hw3_game_store/server/database/game_store.db
+2025-12-18 08:53:13,511 - __main__ - INFO - Lobby Server will start on port 8888
+2025-12-18 08:53:13,511 - __main__ - INFO - Developer Server will start on port 8889
+2025-12-18 08:53:13,511 - __main__ - INFO - Game Servers will use ports starting from 9000
+2025-12-18 08:53:13,512 - lobby_server - INFO - Lobby Server started on 0.0.0.0:8888
+2025-12-18 08:53:13,512 - developer_server - INFO - Developer Server started on 0.0.0.0:8889
+2025-12-18 08:53:26,071 - developer_server - INFO - Developer connected: 127.0.0.1:41540
+2025-12-18 08:53:48,007 - database.db_manager - INFO - Developer authenticated: 1
+2025-12-18 08:53:48,008 - developer_server - INFO - Developer 1 authenticated
+2025-12-18 08:54:19,179 - developer_server - INFO - Update started for game rock paper scissors to version 1.0.1
+2025-12-18 08:54:19,188 - developer_server - INFO - Game files at root level
+2025-12-18 08:54:19,196 - developer_server - INFO - Game rock paper scissors updated to v1.0.1 by 1
+2025-12-18 09:55:51,284 - protocol - ERROR - Read error: 0 bytes read on a total of 4 expected bytes
+2025-12-18 09:55:51,298 - developer_server - INFO - Developer 127.0.0.1:41540 disconnected

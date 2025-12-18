@@ -1,0 +1,82 @@
+2025-12-18 02:52:48,554 - client.network_client - INFO - Connected to localhost:8888
+2025-12-18 02:52:52,530 - client.network_client - DEBUG - → Sending AUTH_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:52:52,530 - client.network_client - DEBUG -   Created event for AUTH_REQUEST
+2025-12-18 02:52:52,530 - client.network_client - DEBUG -   Waiting for AUTH_REQUEST response...
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - Received: AUTH_RESPONSE
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - Mapped AUTH_RESPONSE -> AUTH_REQUEST
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - Pending events: ['AUTH_REQUEST']
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - ✓ Matched specific response: AUTH_RESPONSE -> AUTH_REQUEST
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - ✓ Event set for AUTH_REQUEST
+2025-12-18 02:52:52,539 - client.network_client - DEBUG - ✓ Received response for AUTH_REQUEST: AUTH_RESPONSE
+2025-12-18 02:52:52,590 - client.network_client - DEBUG - → Sending GAME_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:52:52,591 - client.network_client - DEBUG -   Created event for GAME_LIST_REQUEST
+2025-12-18 02:52:52,591 - client.network_client - DEBUG -   Waiting for GAME_LIST_REQUEST response...
+2025-12-18 02:52:52,592 - client.network_client - DEBUG - Received: GAME_LIST_RESPONSE
+2025-12-18 02:52:52,592 - client.network_client - DEBUG - Mapped GAME_LIST_RESPONSE -> GAME_LIST_REQUEST
+2025-12-18 02:52:52,592 - client.network_client - DEBUG - Pending events: ['GAME_LIST_REQUEST']
+2025-12-18 02:52:52,592 - client.network_client - DEBUG - ✓ Matched specific response: GAME_LIST_RESPONSE -> GAME_LIST_REQUEST
+2025-12-18 02:52:52,593 - client.network_client - DEBUG - ✓ Event set for GAME_LIST_REQUEST
+2025-12-18 02:52:52,593 - client.network_client - DEBUG - ✓ Received response for GAME_LIST_REQUEST: GAME_LIST_RESPONSE
+2025-12-18 02:52:53,946 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:52:53,946 - client.network_client - DEBUG -   Created event for ROOM_LIST_REQUEST
+2025-12-18 02:52:53,946 - client.network_client - DEBUG -   Waiting for ROOM_LIST_REQUEST response...
+2025-12-18 02:52:53,947 - client.network_client - DEBUG - Received: ROOM_LIST_RESPONSE
+2025-12-18 02:52:53,947 - client.network_client - DEBUG - Mapped ROOM_LIST_RESPONSE -> ROOM_LIST_REQUEST
+2025-12-18 02:52:53,947 - client.network_client - DEBUG - Pending events: ['ROOM_LIST_REQUEST']
+2025-12-18 02:52:53,947 - client.network_client - DEBUG - ✓ Matched specific response: ROOM_LIST_RESPONSE -> ROOM_LIST_REQUEST
+2025-12-18 02:52:53,948 - client.network_client - DEBUG - ✓ Event set for ROOM_LIST_REQUEST
+2025-12-18 02:52:53,948 - client.network_client - DEBUG - ✓ Received response for ROOM_LIST_REQUEST: ROOM_LIST_RESPONSE
+2025-12-18 02:52:55,640 - client.network_client - DEBUG - → Joining room 5
+2025-12-18 02:52:55,640 - client.network_client - DEBUG - → Sending JOIN_ROOM and waiting for response (timeout=10s)
+2025-12-18 02:52:55,640 - client.network_client - DEBUG -   Created event for JOIN_ROOM
+2025-12-18 02:52:55,640 - client.network_client - DEBUG -   Waiting for JOIN_ROOM response...
+2025-12-18 02:52:55,645 - client.network_client - DEBUG - Received: ROOM_JOINED
+2025-12-18 02:52:55,645 - client.network_client - DEBUG - Mapped ROOM_JOINED -> JOIN_ROOM
+2025-12-18 02:52:55,645 - client.network_client - DEBUG - Pending events: ['JOIN_ROOM']
+2025-12-18 02:52:55,645 - client.network_client - DEBUG - ✓ Matched specific response: ROOM_JOINED -> JOIN_ROOM
+2025-12-18 02:52:55,646 - client.network_client - DEBUG - ✓ Event set for JOIN_ROOM
+2025-12-18 02:52:55,646 - client.network_client - DEBUG - ✓ Received response for JOIN_ROOM: ROOM_JOINED
+2025-12-18 02:52:55,646 - client.network_client - DEBUG - Received: ROOM_UPDATE
+2025-12-18 02:52:55,646 - client.network_client - DEBUG - ← Join room response: ROOM_JOINED
+2025-12-18 02:52:55,646 - client.network_client - DEBUG - Mapped ROOM_UPDATE -> None
+2025-12-18 02:52:55,647 - client.network_client - DEBUG - ✓ Join room success via ROOM_JOINED
+2025-12-18 02:52:55,647 - client.network_client - DEBUG - Pending events: []
+2025-12-18 02:52:55,681 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:52:55,682 - client.network_client - DEBUG -   Created event for ROOM_LIST_REQUEST
+2025-12-18 02:52:55,682 - client.network_client - DEBUG -   Waiting for ROOM_LIST_REQUEST response...
+2025-12-18 02:52:55,682 - client.network_client - ERROR - Receive error: bad window path name ".!ctkframe2.!lobbyview.!ctkframe2.!canvas.!ctkscrollableframe"
+2025-12-18 02:52:55,683 - client.network_client - INFO - Receive loop stopped
+2025-12-18 02:52:58,682 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:52:58,682 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:52:58,683 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:00,683 - client.network_client - WARNING - ✗ Request timeout: ROOM_LIST_REQUEST (no response in 5.0s)
+2025-12-18 02:53:00,707 - client.network_client - DEBUG - → Sending LEAVE_ROOM and waiting for response (timeout=5s)
+2025-12-18 02:53:00,707 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:00,707 - client.network_client - WARNING - ✗ Failed to send LEAVE_ROOM
+2025-12-18 02:53:00,739 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:00,740 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:00,740 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:18,909 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:18,910 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:18,910 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:19,441 - client.network_client - DEBUG - → Sending GAME_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:19,441 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:19,441 - client.network_client - WARNING - ✗ Failed to send GAME_LIST_REQUEST
+2025-12-18 02:53:28,779 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:28,779 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:28,779 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:38,275 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:38,275 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:38,276 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:39,900 - client.network_client - DEBUG - → Sending GAME_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:39,900 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:39,900 - client.network_client - WARNING - ✗ Failed to send GAME_LIST_REQUEST
+2025-12-18 02:53:52,560 - client.network_client - DEBUG - → Sending ROOM_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:52,560 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:52,561 - client.network_client - WARNING - ✗ Failed to send ROOM_LIST_REQUEST
+2025-12-18 02:53:55,196 - client.network_client - DEBUG - → Sending GAME_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:55,196 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:55,196 - client.network_client - WARNING - ✗ Failed to send GAME_LIST_REQUEST
+2025-12-18 02:53:56,656 - client.network_client - DEBUG - → Sending GAME_LIST_REQUEST and waiting for response (timeout=5.0s)
+2025-12-18 02:53:56,656 - client.network_client - WARNING - Not connected to server
+2025-12-18 02:53:56,656 - client.network_client - WARNING - ✗ Failed to send GAME_LIST_REQUEST

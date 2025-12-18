@@ -1,0 +1,7 @@
+# Python Dependencies for Game Store System
+
+# Player Client
+customtkinter>=5.0.0
+
+# No additional packages needed for Server and Developer Client
+# They use Python standard library only

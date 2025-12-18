@@ -1,0 +1,14 @@
+啟動 Developer Client: 
+cd ~/hw3_game_store/hw3_game_store/developer_client
+python3 developer_cli.py linux1.cs.nycu.edu.tw 8890(port可能會不一樣 看server顯示是甚麼這邊就打甚麼)
+
+啟動 Lobby Client
+在細記中上跑 cd ~/hw3_game_store/hw3_game_store/server
+./start_server.sh
+
+跑player:
+cd ~/hw3_game_store/hw3_game_store/player_client
+python3 main.py
+
+要到 ~/hw3_game_store/hw3_game_store/player_client/config.py
+改host和port
